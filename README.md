@@ -13,8 +13,8 @@ Justification:
 * Predicting match outcomes is valuable for a variety of reasons, including improving the accuracy of sports betting models, analyzing player performance, and aiding coaches and analysts in match preparations. With the dataset spanning a long period (2000-2025), it provides enough historical data to build predictive models that can capture trends and patterns in match outcomes.
 
 ## Dataset
-- Source: (e.g., Kaggle link)
-- Target Variable: 
+- Source: https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull
+- The target variable is the Winner column, which represents the player who won the match.
 
 ## CRISP-DM Summary
 - Business Understanding
