@@ -1,6 +1,6 @@
 # Data Mining Final Project Spring 2025
 
-## Name and Introduction
+## Name and Introduction:
 
 ## Overview
 This project follows the CRISP-DM process for a supervised learning task.
